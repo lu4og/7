@@ -1,0 +1,18 @@
+C:\Users\Juras\source\repos\PR_2\Json\bin\Debug\Json.dll
+C:\Users\Juras\source\repos\PR_2\Json\bin\Debug\Json.pdb
+C:\Users\Juras\source\repos\PR_2\Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juras\source\repos\PR_2\Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juras\source\repos\PR_2\Json\obj\Debug\Json.csproj.AssemblyReference.cache
+C:\Users\Juras\source\repos\PR_2\Json\obj\Debug\Json.csproj.CoreCompileInputs.cache
+C:\Users\Juras\source\repos\PR_2\Json\obj\Debug\Json.csproj.CopyComplete
+C:\Users\Juras\source\repos\PR_2\Json\obj\Debug\Json.dll
+C:\Users\Juras\source\repos\PR_2\Json\obj\Debug\Json.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\bin\Debug\Json.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\bin\Debug\Json.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\obj\Debug\Json.csproj.AssemblyReference.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\obj\Debug\Json.csproj.CoreCompileInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\obj\Debug\Json.csproj.CopyComplete
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\obj\Debug\Json.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\Json\obj\Debug\Json.pdb

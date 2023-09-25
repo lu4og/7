@@ -1,0 +1,52 @@
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\PR_2.exe
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\PR_2.deps.json
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\PR_2.runtimeconfig.json
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\PR_2.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\PR_2.pdb
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.csproj.AssemblyReference.cache
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2_MarkupCompile.cache
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2_MarkupCompile.lref
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.g.resources
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.AssemblyInfoInputs.cache
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.AssemblyInfo.cs
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.csproj.CoreCompileInputs.cache
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.csproj.CopyComplete
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\refint\PR_2.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.pdb
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\PR_2.genruntimeconfig.cache
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\ref\PR_2.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\Json.dll
+C:\Users\Juras\source\repos\PR_2\PR_2\bin\Debug\net6.0-windows\Json.pdb
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Juras\source\repos\PR_2\PR_2\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\PR_2.exe
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\PR_2.deps.json
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\PR_2.runtimeconfig.json
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\PR_2.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\PR_2.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\Json.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\bin\Debug\net6.0-windows\Json.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.csproj.AssemblyReference.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2_MarkupCompile.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2_MarkupCompile.lref
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.g.resources
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.AssemblyInfoInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.AssemblyInfo.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.csproj.CoreCompileInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.csproj.CopyComplete
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\refint\PR_2.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\PR_2.genruntimeconfig.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\pr7\PR_2\obj\Debug\net6.0-windows\ref\PR_2.dll
